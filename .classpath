@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/commons-net-3.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/jsch-0.1.49.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/testng-6.14.2.jar"/>
+	<classpathentry kind="lib" path="D:/ClonedRepo/trunk/SFAutomation/ExternalJars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
